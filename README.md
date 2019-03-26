@@ -3,4 +3,4 @@ first github
 
 try branch
 
-use desktop to edit
+desktop edit branch
